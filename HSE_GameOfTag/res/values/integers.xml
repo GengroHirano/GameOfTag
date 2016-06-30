@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="max_risk" type="integer">6</item>
+    <item name="min_risk" type="integer">0</item>
+    <item name="cage_level" type="integer">8</item>
+    <item name="encount_probability" type="integer">50</item>
+    <item name="encount" type="integer">10</item>
+    <item name="enemy_action_probability" type="integer">20</item>
+    <item name="enemy_action" type="integer">5</item>
+
+</resources>
